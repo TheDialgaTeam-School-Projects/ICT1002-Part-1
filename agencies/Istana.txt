@@ -1,7 +1,0 @@
-'IST000ETT15000001', 'Istana', 'Invitation To Tender For Food Catering For National Day Reception Party On 10 August 2015 At 8pm At Istana Lawn', '2015-07-09', 'Awarded to Suppliers', 'CONRAD CENTENNIAL SINGAPORE', '104280'
-'IST000ETT15000002', 'Istana', 'Air-con Tentage Set Up For National Day Reception Party on 10 August 2015 at Istana Lawn', '2015-07-06', 'Awarded to Suppliers', 'SENG HENG TENTAGE RENTALS PTE. LTD.', '138880'
-'IST000ETT15000003', 'Istana', 'Invitation To Tender For Food Catering For 2015 National Day Investiture On Sunday 8 November 2015 At 5pm At University Cultural Centre, National University of Singapore', '2015-09-04', 'Awarded to Suppliers', 'Marina Mandarin', '106480'
-'IST000ETT16000004', 'Istana', 'Invitation To Tender for Food Catering For National Day Investiture On 6 November 2016 at University Cultural Centre,National University of Singapore', '2016-09-27', 'Awarded to Suppliers', 'CONRAD CENTENNIAL SINGAPORE', '105380'
-'IST000ETT17000001', 'Istana', 'Food Catering For National Day Reception Day Party On 10 August 2017 at Istana', '2017-07-17', 'Awarded to Suppliers', 'Marina Mandarin', '96250'
-'IST000ETT17000002', 'Istana', 'Air-con Tentage Set Up For National Day Reception Party On 10 August 2017 at Istana', '2017-07-17', 'Awarded to Suppliers', 'SENG HENG TENTAGE RENTALS PTE. LTD.', '152800'
-'IST000ETT17000006', 'Istana', 'Food Catering for National Day Investiture On 5 November 2017', '2017-10-12', 'Awarded to Suppliers', 'Marina Mandarin', '98450'
